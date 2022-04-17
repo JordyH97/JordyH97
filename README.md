@@ -2,7 +2,7 @@
 - 👀 I’m currently working to start my career in the C.S. and IT Field
 - 🌱 I’m currently learning C, C#, Java, SQL, HTML, Python, much more!
 - 💞️ I’m looking to collaborate on any easy open projects
-- 📫 You can reach me at LinkedIn: JordyHernandez97 (My Website is coming soon!)
+- 📫 You can reach me at LinkedIn: JordyHernandez97 and on my website https://www.jordyh.com
 
 <!---
 JordyH97/JordyH97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
