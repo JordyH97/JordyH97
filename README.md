@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JordyH97
-- 👀 I’m currently working to start my career in the C.S. and IT Field
+- 👀 I’m a new IT Support Specialist who started working in the field in June 2022
 - 🌱 I’m currently learning C, C#, Java, SQL, HTML, Python, much more!
 - 💞️ I’m looking to collaborate on any easy open projects
 - 📫 You can reach me at LinkedIn: JordyHernandez97 and on my website https://www.jordyh.com
